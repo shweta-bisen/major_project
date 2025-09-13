@@ -1,2 +1,28 @@
-# major_project
-About it is application for interview preparation with help of AI includes 4 rounds aptitude,technical ,coding and interview with an ai interviewer  Resources
+# CrackItUp:AI Interviewer App (iOS - UIKit & Firebase)(part of college major project)
+
+Work in Progress :
+
+An iOS app designed to help students prepare for interviews.  
+Built with "UIKit" for the frontend and "Firebase" for backend services.
+
+
+Tech Stack :
+- Swift (UIKit-based UI)
+- Firebase (Authentication & Firestore Database)
+- Xcode, Git/GitHub
+
+
+Features Completed :
+- Firebase login (Email & Guest)
+- Course content (Aptitude, Technical,Coding, Mock Interviews)
+
+
+Upcoming Features :
+- AI-powered Interview Bot (analyzes body language, speech, and confidence)
+- Progress tracking and personalized feedback
+
+
+
+Status :
+Currently under development.
+
